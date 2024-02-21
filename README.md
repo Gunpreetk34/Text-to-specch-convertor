@@ -1,1 +1,1 @@
-It converts text to speech using htm, css and javascript.
+It converts text to speech using html, css and javascript.
